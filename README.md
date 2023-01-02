@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zablahre, I live in South FL. 
 - 👀 I’m interested in Spring boot development using Java lang.
-- 💞️ I’m looking to collaborate on Spring Boot development on Google Cloud Appengine.
+- 💞️ I’m looking to collaborate on Spring Boot development.
 - 📫 How to reach me @ rene.zablah@gmail.com
 
 <!---
